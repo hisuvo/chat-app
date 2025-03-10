@@ -1,0 +1,14 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "it is a real time chat application that a binnger lavel project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "suvo datta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
